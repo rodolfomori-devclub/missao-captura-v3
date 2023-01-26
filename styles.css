@@ -620,3 +620,7 @@ input {
     color: #fb8000;
     font-family: 'Sora-Medium';
 }
+
+input {
+    color: #2a2a2a !important;
+}
